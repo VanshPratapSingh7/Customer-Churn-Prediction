@@ -108,25 +108,6 @@ Two supervised learning models were implemented and compared:
 - Contract type and monthly charges significantly influence churn prediction.
 - Random Forest achieved the best overall performance.
 
----
-
-## 📁 Project Structure
-
-```
-Customer-Churn-Prediction/
-│
-├── Customer_Churn_Prediction.ipynb
-├── dataset.csv
-├── README.md
-├── requirements.txt
-├── images/
-│   ├── churn_distribution.png
-│   ├── feature_importance.png
-│   └── confusion_matrix.png
-└── report.pdf
-```
-
----
 
 ## ▶️ How to Run
 
